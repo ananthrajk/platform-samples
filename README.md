@@ -3,6 +3,8 @@ platform-samples
 
 This is a public place for all sample projects related to the GitHub Platform.
 
+Please find the Hierarchy below:
+
 ## Hierarchy
 
 The directories are organized to correlate with guides found on developer.github.com.
